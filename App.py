@@ -529,10 +529,3 @@ html = f"""
 </body>
 </html>
 """
-
-# Render the game inside Streamlit
-st.components.v1.html(html, height=760, scrolling=False)
-
-st.markdown(
-    """
-**How to run locally**
