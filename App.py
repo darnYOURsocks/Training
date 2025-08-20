@@ -536,7 +536,3 @@ st.components.v1.html(html, height=760, scrolling=False)
 st.markdown(
     """
 **How to run locally**
-
-```bash
-pip install streamlit
-streamlit run app.py
